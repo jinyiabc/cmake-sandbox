@@ -1,0 +1,3 @@
+C:/Users/jinyi/Desktop/ece275/hellocmake/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jinyi/Desktop/ece275/hellocmake/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/jinyi/Desktop/ece275/hellocmake/build/src/CMakeFiles/hellocmake.dir

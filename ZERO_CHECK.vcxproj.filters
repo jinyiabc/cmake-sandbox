@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jinyi\Desktop\ece275\hellocmake\build\CMakeFiles\3580a50146743c54219f367b13379485\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5BB691BE-FD13-31EB-A9E0-EBABB4FC65A1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
